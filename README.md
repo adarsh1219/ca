@@ -1,4 +1,4 @@
-# Made by Adarsh Singh
+# Made by Adarsh Singh for mrs gupta
 
 vercel ---  https://calculator-pz5hfxir1-adarsh-singhs-projects-ebc0ad18.vercel.app/
 
